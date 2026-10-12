@@ -1,15 +1,15 @@
 # Behara Prasanth Kumar (25A31A0316) - Mechanical Engineering & CAD Portfolio
 
-> 🌐 **Live Website (Active 24/7):** **[https://prasanth-porfolis.netlify.app](https://prasanth-porfolis.netlify.app)**
+> 🌐 **Live Website (Active 24/7 via Cloudflare Pages):** **[https://prasanth-portfolio.pages.dev](https://prasanth-portfolio.pages.dev)**
 
 A high-precision, modern portfolio website showcasing CAD modeling, material manufacturing, interactive kinematics simulations, and verified GitHub engineering projects for **Behara Prasanth Kumar** from **Pragati Engineering College**.
 
 ---
 
 ## 🌐 Live Website & Links
-- **Official Live Website (24/7):** [https://prasanth-porfolis.netlify.app](https://prasanth-porfolis.netlify.app)
+- **Official Live Website (24/7 via Cloudflare Pages):** [https://prasanth-portfolio.pages.dev](https://prasanth-portfolio.pages.dev)
 - **GitHub Source Repository:** [https://github.com/25A31A0316/Portfolio-](https://github.com/25A31A0316/Portfolio-)
-- **Hosting Platform:** Netlify Global High-Performance CDN (Always Online)
+- **Hosting Platform:** Cloudflare Pages (Global High-Speed Edge CDN - Always Online)
 
 ---
 
@@ -17,7 +17,7 @@ A high-precision, modern portfolio website showcasing CAD modeling, material man
 - **Name**: Behara Prasanth Kumar
 - **Student Roll ID**: 25A31A0316
 - **Institution**: Pragati Engineering College (Department of Mechanical Engineering)
-- **Live Portfolio**: [https://prasanth-porfolis.netlify.app](https://prasanth-porfolis.netlify.app)
+- **Live Portfolio**: [https://prasanth-portfolio.pages.dev](https://prasanth-portfolio.pages.dev)
 - **Email**: [prasanthkumar97883@gmail.com](mailto:prasanthkumar97883@gmail.com)
 - **Phone / Mobile**: [+91 99594 79127](tel:+919959479127) | [Direct WhatsApp Chat](https://wa.me/919959479127)
 - **GitHub Profile**: [https://github.com/25A31A0316](https://github.com/25A31A0316)
@@ -52,11 +52,10 @@ A high-precision, modern portfolio website showcasing CAD modeling, material man
 1. **[PredictX-Maintenance](https://github.com/25A31A0316/PredictX-Maintenance)**: Predictive Maintenance system forecasting industrial equipment failures using analytical data modeling.
 2. **[predictive-maintenance](https://github.com/25A31A0316/predictive-maintenance)**: Machinery condition monitoring to cut downtime and optimize manufacturing lines.
 3. **[Temp-Converter-C](https://github.com/25A31A0316/Temp-Converter-C)**: Thermodynamic temperature scale converter engineered in C.
-4. **[UC-086](https://github.com/25A31A0316/UC-086)**: Engineering code repository.
-5. **CAD 3D Modeling (AutoCAD & CATIA)**: Mechanical transmission assemblies, shafts, bearings, and standardized production drawings.
+4. **[UC-086](https://github.com/25A31A0316/UC-086)**: Collaborative Engineering Project & Coursework System (🤝 Team Collab Repository).
 
 ---
 
 ## 💻 How to View
-- **Live 24/7 Website:** [https://prasanth-porfolis.netlify.app](https://prasanth-porfolis.netlify.app)
+- **Live 24/7 Website (Cloudflare Pages):** [https://prasanth-portfolio.pages.dev](https://prasanth-portfolio.pages.dev)
 - **Local Dev Server:** `http://localhost:8080` (run `python -m http.server 8080`)
