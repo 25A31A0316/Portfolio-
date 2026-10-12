@@ -1,11 +1,23 @@
 # Behara Prasanth Kumar (25A31A0316) - Mechanical Engineering & CAD Portfolio
 
+> 🌐 **Live Website (Active 24/7):** **[https://prasanth-porfolis.netlify.app](https://prasanth-porfolis.netlify.app)**
+
 A high-precision, modern portfolio website showcasing CAD modeling, material manufacturing, interactive kinematics simulations, and verified GitHub engineering projects for **Behara Prasanth Kumar** from **Pragati Engineering College**.
+
+---
+
+## 🌐 Live Website & Links
+- **Official Live Website (24/7):** [https://prasanth-porfolis.netlify.app](https://prasanth-porfolis.netlify.app)
+- **GitHub Source Repository:** [https://github.com/25A31A0316/Portfolio-](https://github.com/25A31A0316/Portfolio-)
+- **Hosting Platform:** Netlify Global High-Performance CDN (Always Online)
+
+---
 
 ## 👤 Personal & Contact Information
 - **Name**: Behara Prasanth Kumar
 - **Student Roll ID**: 25A31A0316
 - **Institution**: Pragati Engineering College (Department of Mechanical Engineering)
+- **Live Portfolio**: [https://prasanth-porfolis.netlify.app](https://prasanth-porfolis.netlify.app)
 - **Email**: [prasanthkumar97883@gmail.com](mailto:prasanthkumar97883@gmail.com)
 - **Phone / Mobile**: [+91 99594 79127](tel:+919959479127) | [Direct WhatsApp Chat](https://wa.me/919959479127)
 - **GitHub Profile**: [https://github.com/25A31A0316](https://github.com/25A31A0316)
@@ -45,6 +57,6 @@ A high-precision, modern portfolio website showcasing CAD modeling, material man
 
 ---
 
-## 💻 How to View Locally
-The local development server is active at **[http://localhost:8080](http://localhost:8080)**.
-You can open this URL directly in any web browser to test and interact with all mechanisms.
+## 💻 How to View
+- **Live 24/7 Website:** [https://prasanth-porfolis.netlify.app](https://prasanth-porfolis.netlify.app)
+- **Local Dev Server:** `http://localhost:8080` (run `python -m http.server 8080`)
