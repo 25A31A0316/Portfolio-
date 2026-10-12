@@ -57,7 +57,5 @@ A high-precision, modern portfolio website showcasing CAD modeling, material man
 
 ---
 
-## 💻 How to View
-- **Live 24/7 Website (GitHub Pages):** [https://25a31a0316.github.io/Portfolio-/](https://25a31a0316.github.io/Portfolio-/)
-- **Live Mirror (Cloudflare Pages):** [https://prasanth-portfolio.pages.dev](https://prasanth-portfolio.pages.dev)
+
 - **Local Dev Server:** `http://localhost:8080` (run `python -m http.server 8080`)
