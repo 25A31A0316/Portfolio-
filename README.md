@@ -48,3 +48,7 @@ A high-precision, modern portfolio website showcasing CAD modeling, material man
 ## 💻 How to View Locally
 The local development server is active at **[http://localhost:8080](http://localhost:8080)**.
 You can open this URL directly in any web browser to test and interact with all mechanisms.
+
+## How to view publicly 
+The public website is active 24/7 at https://portfolio.prasanthbehara81.workers.dev/
+you can open this URL directly in web browser or test and interact with me 
