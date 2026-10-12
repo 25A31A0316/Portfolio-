@@ -1,15 +1,16 @@
 # Behara Prasanth Kumar (25A31A0316) - Mechanical Engineering & CAD Portfolio
 
-> 🌐 **Live Website (Active 24/7 via Cloudflare Pages):** **[https://prasanth-portfolio.pages.dev](https://prasanth-portfolio.pages.dev)**
+> 🌐 **Live Website (Active 24/7 via Cloudflare):** **[https://portfolio.prasanthbehara81.workers.dev/](https://portfolio.prasanthbehara81.workers.dev/)**
 
 A high-precision, modern portfolio website showcasing CAD modeling, material manufacturing, interactive kinematics simulations, and verified GitHub engineering projects for **Behara Prasanth Kumar** from **Pragati Engineering College**.
 
 ---
 
 ## 🌐 Live Website & Links
-- **Official Live Website (24/7 via Cloudflare Pages):** [https://prasanth-portfolio.pages.dev](https://prasanth-portfolio.pages.dev)
+- **Official Live Website (24/7 via Cloudflare):** [https://portfolio.prasanthbehara81.workers.dev/](https://portfolio.prasanthbehara81.workers.dev/)
+- **Local Dev Server (Localhost):** [http://localhost:8080](http://localhost:8080)
 - **GitHub Source Repository:** [https://github.com/25A31A0316/Portfolio-](https://github.com/25A31A0316/Portfolio-)
-- **Hosting Platform:** Cloudflare Pages (Global High-Speed Edge CDN - Always Online)
+- **Hosting Platform:** Cloudflare (Global High-Speed Edge Network - Always Online)
 
 ---
 
@@ -17,7 +18,7 @@ A high-precision, modern portfolio website showcasing CAD modeling, material man
 - **Name**: Behara Prasanth Kumar
 - **Student Roll ID**: 25A31A0316
 - **Institution**: Pragati Engineering College (Department of Mechanical Engineering)
-- **Live Portfolio**: [https://prasanth-portfolio.pages.dev](https://prasanth-portfolio.pages.dev)
+- **Live Portfolio**: [https://portfolio.prasanthbehara81.workers.dev/](https://portfolio.prasanthbehara81.workers.dev/)
 - **Email**: [prasanthkumar97883@gmail.com](mailto:prasanthkumar97883@gmail.com)
 - **Phone / Mobile**: [+91 99594 79127](tel:+919959479127) | [Direct WhatsApp Chat](https://wa.me/919959479127)
 - **GitHub Profile**: [https://github.com/25A31A0316](https://github.com/25A31A0316)
@@ -57,5 +58,5 @@ A high-precision, modern portfolio website showcasing CAD modeling, material man
 ---
 
 ## 💻 How to View
-- **Live 24/7 Website (Cloudflare Pages):** [https://prasanth-portfolio.pages.dev](https://prasanth-portfolio.pages.dev)
-- **Local Dev Server:** `http://localhost:8080` (run `python -m http.server 8080`)
+- **Live 24/7 Website (Cloudflare):** [https://portfolio.prasanthbehara81.workers.dev/](https://portfolio.prasanthbehara81.workers.dev/)
+- **Local Dev Server (Localhost):** [http://localhost:8080](http://localhost:8080) (run `python -m http.server 8080`)
